@@ -1,0 +1,47 @@
+2 ?- similarity_search('q00.jpg.txt', SimilarList).
+SimilarList = [('1144.jpg.txt', 1), ('3806.jpg.txt', 0.7074537037037038), ('3714.jpg.txt', 0.668431712962963), ('3756.jpg.txt', 0.6620254629629629), ('2462.jpg.txt', 0.6491030092592592)] .
+
+3 ?- similarity_search('q01.jpg.txt', SimilarList).
+SimilarList = [('3588.jpg.txt', 0.5703645833333333), ('2536.jpg.txt', 0.561255787037037), ('3553.jpg.txt', 0.5365625), ('1875.jpg.txt', 0.5282986111111111), ('2592.jpg.txt', 0.5049710648148148)] .
+
+4 ?- similarity_search('q02.jpg.txt', SimilarList).
+SimilarList = [('1091.jpg.txt', 0.6543518518518519), ('3005.jpg.txt', 0.6425925925925926), ('850.jpg.txt', 0.6293344907407408), ('3728.jpg.txt', 0.6242418981481481), ('1090.jpg.txt', 0.6235821759259259)] .
+
+5 ?- similarity_search('q03.jpg.txt', SimilarList).
+SimilarList = [('1255.jpg.txt', 0.5487037037037037), ('3532.jpg.txt', 0.5420949074074074), ('4507.jpg.txt', 0.5384143518518518), ('692.jpg.txt', 0.5370486111111111), ('4737.jpg.txt', 0.5314583333333334)] .
+
+6 ?- similarity_search('q04.jpg.txt', SimilarList).
+SimilarList = [('1799.jpg.txt', 0.8465046296296296), ('848.jpg.txt', 0.4933969907407407), ('4261.jpg.txt', 0.48906828703703703), ('1800.jpg.txt', 0.4714351851851852), ('1937.jpg.txt', 0.46808449074074077)] .
+
+7 ?- similarity_search('q05.jpg.txt', SimilarList).   
+SimilarList = [('2223.jpg.txt', 0.6143576388888888), ('3091.jpg.txt', 0.6001273148148148), ('2550.jpg.txt', 0.5303530092592592), ('2883.jpg.txt', 0.5288252314814815), ('2901.jpg.txt', 0.5229571759259259)] .
+
+8 ?- similarity_search('q06.jpg.txt', SimilarList).
+SimilarList = [('2278.jpg.txt', 0.7759432870370371), ('2224.jpg.txt', 0.7166724537037037), ('1108.jpg.txt', 0.7126793981481482), ('1917.jpg.txt', 0.6976967592592592), ('3806.jpg.txt', 0.6947453703703703)] .
+
+9 ?- similarity_search('q07.jpg.txt', SimilarList).
+SimilarList = [('2377.jpg.txt', 1), ('2379.jpg.txt', 0.7670370370370371), ('2079.jpg.txt', 0.6396643518518519), ('1653.jpg.txt', 0.6341377314814814), ('1896.jpg.txt', 0.622175925925926)] .
+
+10 ?- similarity_search('q08.jpg.txt', SimilarList).
+SimilarList = [('2587.jpg.txt', 0.7232407407407407), ('1837.jpg.txt', 0.7008912037037037), ('2586.jpg.txt', 0.6713831018518519), ('1515.jpg.txt', 0.6691203703703704), ('1217.jpg.txt', 0.667974537037037)] .
+
+11 ?- similarity_search('q09.jpg.txt', SimilarList).
+SimilarList = [('2839.jpg.txt', 0.7902141203703704), ('3414.jpg.txt', 0.5090219907407407), ('2617.jpg.txt', 0.4510706018518518), ('4363.jpg.txt', 0.4242534722222222), ('4816.jpg.txt', 0.38471064814814815)] .
+
+12 ?- similarity_search('q10.jpg.txt', SimilarList).
+SimilarList = [('2976.jpg.txt', 0.744849537037037), ('2971.jpg.txt', 0.6602488425925926), ('3108.jpg.txt', 0.6443113425925926), ('2194.jpg.txt', 0.641255787037037), ('4118.jpg.txt', 0.6342650462962963)] .
+
+13 ?- similarity_search('q11.jpg.txt', SimilarList).
+SimilarList = [('3017.jpg.txt', 0.6110358796296296), ('3660.jpg.txt', 0.5757696759259259), ('2411.jpg.txt', 0.5699594907407407), ('1010.jpg.txt', 0.555792824074074), ('2067.jpg.txt', 0.55359375)] .
+
+14 ?- similarity_search('q12.jpg.txt', SimilarList).
+SimilarList = [('3135.jpg.txt', 1), ('3133.jpg.txt', 0.6417650462962963), ('2447.jpg.txt', 0.5733854166666666), ('4429.jpg.txt', 0.5432870370370371), ('2964.jpg.txt', 0.512349537037037)] .
+
+15 ?- similarity_search('q13.jpg.txt', SimilarList).
+SimilarList = [('3225.jpg.txt', 1), ('2083.jpg.txt', 0.4948726851851852), ('2082.jpg.txt', 0.49453703703703705), ('2078.jpg.txt', 0.48898148148148146), ('2607.jpg.txt', 0.47237847222222223)] .
+
+16 ?- similarity_search('q14.jpg.txt', SimilarList).
+SimilarList = [('2193.jpg.txt', 0.4463136574074074), ('3108.jpg.txt', 0.38057291666666665), ('3318.jpg.txt', 0.37972800925925926), ('4028.jpg.txt', 0.3712037037037037), ('3085.jpg.txt', 0.3705439814814815)] .
+
+17 ?- similarity_search('q15.jpg.txt', SimilarList).
+SimilarList = [('4756.jpg.txt', 0.7374768518518519), ('2462.jpg.txt', 0.7236631944444445), ('3756.jpg.txt', 0.6971238425925926), ('908.jpg.txt', 0.6936805555555555), ('3675.jpg.txt', 0.6923726851851851)] .
