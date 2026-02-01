@@ -1,0 +1,126 @@
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q00.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1144.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3806.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3714.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3756.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2462.jpg.txt")
+
+
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q01.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3588.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2536.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3553.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1875.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2592.jpg.txt")
+
+
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q02.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1091.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3005.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\850.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3728.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1090.jpg.txt")
+
+
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q03.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1255.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3532.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\4507.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\692.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\4737.jpg.txt")
+
+
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q04.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1799.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\848.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\4261.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1800.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1937.jpg.txt")
+
+
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q05.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2223.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3091.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2550.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2883.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2901.jpg.txt")
+
+
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q06.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2278.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2224.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1108.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1917.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3806.jpg.txt")
+
+
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q07.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2377.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2379.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2079.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1653.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1896.jpg.txt")
+
+
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q08.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2587.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1837.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2586.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1515.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1217.jpg.txt")
+
+
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q09.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2839.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3414.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2617.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\4363.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\4816.jpg.txt")
+
+
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q10.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2976.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2971.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3108.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2194.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\4118.jpg.txt")
+
+
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q11.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3017.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3660.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2411.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\1010.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2067.jpg.txt")
+
+
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q12.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3135.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3133.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2447.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\4429.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2964.jpg.txt")
+
+
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q13.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3225.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2083.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2082.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2078.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2607.jpg.txt")
+
+
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q14.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2193.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3108.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3318.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\4028.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3085.jpg.txt")
+
+
+> (similaritySearch "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\queryImages\\q15.jpg.txt" "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20")
+'("C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\4756.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\2462.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3756.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\908.jpg.txt"
+  "C:\\Users\\benha\\OneDrive\\Bureau\\Uni\\Hiver2024\\CSI2520\\P4\\imageDataset2_15_20\\3675.jpg.txt")
